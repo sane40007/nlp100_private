@@ -1,0 +1,1 @@
+tr '|t' ' ' <$1> temp.txt && mv temp.txt $1
